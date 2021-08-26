@@ -14,7 +14,7 @@ const initialstate={
         case DECREMENT:
            return{
                ...state,
-               countOne:state.countOne - 1
+               countOne: state.countOne - 1
            }
         default:
            return state

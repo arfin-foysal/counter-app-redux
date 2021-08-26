@@ -1,0 +1,2 @@
+export const INCREMENT_TWO="INCREMENT_TWO"
+export const DECREMENT_TWO="DECREMENT_TWO"
